@@ -1,8 +1,8 @@
 {
-  "name": "e-commerce",
+  "name": "boilerPlate",
   "version": "1.0.0",
-  "description": "REST API for a e-commerce website like Flipkart and Amazon",
-  "main": "index.js",
+  "description": "boiler plate",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
